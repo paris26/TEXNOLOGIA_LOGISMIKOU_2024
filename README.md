@@ -1,6 +1,1 @@
-Texnologia Logismikou 
-
-Project 
-
-
-changed inside Linux terminal 
+Texnologia Logismikou Project
