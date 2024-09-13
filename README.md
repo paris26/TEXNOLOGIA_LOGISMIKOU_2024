@@ -1,9 +1,8 @@
-__TEXNOLOGIA LOGISMIKOU__
+**TEXNOLOGIA LOGISMIKOU**
+<br>
+- PARADOTEO 1
+- PARADOTEO 2
 
-<br> - PARADOTEO 1
-
-<br> * PARADOTEO 2
-
-**DEPLOYED VBRSION LINK**
-_https://coffee-me-up.vercel.app/_
+**DEPLOYED VERSION LINK**
+*https://coffee-me-up.vercel.app/*
 
