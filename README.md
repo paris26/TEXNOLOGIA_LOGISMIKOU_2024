@@ -6,3 +6,5 @@
 **DEPLOYED VERSION LINK**
 *https://coffee-me-up.vercel.app/*
 
+**CODE REPOSITORY LINK**
+*https://github.com/paris26/CoffeeMeUp*
